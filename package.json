@@ -1,0 +1,18 @@
+{
+  "name": "sanila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanila",
+  "license": "ISC",
+  "description": "its an amzing package",
+  "dependencies": {
+    "@angular/cli": "^19.2.13",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
