@@ -1,17 +1,17 @@
 
-/*synchronous 
+/*//synchronous 
 console.log("1");
 console.log("2");
-console.log ("3");
-*/
+console.log ("3");*/
 
-/* asynchrounous 
+
+//asynchrounous 
 function hello(){
     console.log("hello world");
 }
 
 setTimeout(hello,5000);
-*/
+
 
 
 //callback asynchronous example
@@ -36,6 +36,7 @@ fs.readFile('file.txt', 'utf8')
 
 
  //node aasync/await
+ /*
 
 const fs = require('fs').promises;
 
@@ -48,7 +49,7 @@ async function readFile() {
   }
 }
 
-readFile();
+readFile();*/
 
 
 
